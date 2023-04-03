@@ -1,0 +1,11 @@
+Output: double to the console and to the file out+err
+Program arguments: 
+Файл конфигурации src/main/resources/conf.properties присутствует
+@@@@@ START summuryOfErrors = 0  @@@
+startTests 2023-04-03T15:11:08 arguments: JetBrains
+Повторов 3 Задержка 3000 Печать 5
+Открытие страницы http://tdms-srv2b.csoft-msc.ru:443/client/?classic#objects
+Браузер = Chrome login= SYSADMIN   password= Cons123
+counterChunk = 1
+======= run 1 Test ru.cs.tdm.cases.JetBrainsTest! ======= 2023-04-03T15:11:08 ============
+@@@@@ EXIT allSummuryOfErrors = 0  @@@

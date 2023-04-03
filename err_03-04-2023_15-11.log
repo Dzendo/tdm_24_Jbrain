@@ -1,0 +1,4 @@
+[SwingWorker-pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 111.0.5563.64 (resolved driver for Chrome 111)
+[SwingWorker-pool-1-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\ASDze\.cache\selenium\chromedriver\win32\111.0.5563.64\chromedriver.exe
+апр. 03, 2023 3:11:11 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 111, so returning the closest version found: 110
