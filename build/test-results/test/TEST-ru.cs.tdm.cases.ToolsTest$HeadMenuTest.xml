@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testing each menu separately" tests="16" skipped="0" failures="0" errors="0" timestamp="2022-03-29T17:56:14" hostname="WKW-930" time="54.986">
+  <properties/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="4.72"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="3.497"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="4.653"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="3.404"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="3.454"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="3.514"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="4.456"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="4.418"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="4.464"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="3.473"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="3.437"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="2.28"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="2.414"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="2.346"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="2.197"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$HeadMenuTest" time="2.22"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

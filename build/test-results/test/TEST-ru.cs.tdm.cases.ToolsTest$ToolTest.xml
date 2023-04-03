@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Testing Tools Box" tests="30" skipped="0" failures="0" errors="0" timestamp="2022-03-29T17:57:09" hostname="WKW-930" time="123.594">
+  <properties/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.634"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.604"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.343"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.381"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="4.665"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="4.082"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="6.325"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="5.889"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="10.107"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="6.089"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="5.767"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="5.793"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.518"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.51"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="2.339"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="1.907"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="2.816"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="2.272"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.368"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="2.831"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.775"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.312"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.324"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.327"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.434"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="3.651"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="2.787"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="2.481"/>
+  <testcase name="repetition 1 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="6.287"/>
+  <testcase name="repetition 2 of 2" classname="ru.cs.tdm.cases.ToolsTest$ToolTest" time="5.929"/>
+  <system-out><![CDATA[###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N1 попытка #### xpathGetText не взят- ждем 1 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N1 попытка #### xpathGetText не взят- ждем 1 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N1 попытка #### xpathGetText не взят- ждем 1 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N1 попытка #### xpathGetText не взят- ждем 1 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N1 попытка #### xpathGetText не взят- ждем 1 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N0 попытка #### xpathGetText не взят- ждем 0 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+###N1 попытка #### xpathGetText не взят- ждем 1 sec  xpathGetText=//div[starts-with(@id, 'messagebox-') and contains(@id, '_header-title-textEl') and not(contains(@id, 'ghost'))] #######
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
